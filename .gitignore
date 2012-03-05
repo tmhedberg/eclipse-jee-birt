@@ -3,3 +3,4 @@
 /*.tar.gz
 /pkg/
 /src/
+/*.pkg.tar.xz.sig
